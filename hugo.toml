@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://jackhosler.com/'
 languageCode = 'en-us'
 title = 'Jack Hosler'
 theme = 'hugo-coder'
@@ -57,4 +57,4 @@ url = "https://www.linkedin.com/in/johndoe/"
 [[menu.main]]
 name = "RESUME"
 weight = 1
-url = "/resume"
+url = "resume/"
