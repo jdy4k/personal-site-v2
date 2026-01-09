@@ -71,7 +71,7 @@ aliases = ["resume"]
   extra1="Non-Degree Student"
   extra2="Sep 2022 - Jul 2023"
   summary_title="SILS/CJL Courses"
-  summary_content="- (SOCI) Politics of Translation\n- (ART) Select Topics in Japanese Art History\n- (CSCI) Introduction to Machine Learning\n- (JPN) Intensive Japanese 4\n- (JPN) Intensive Japanese 5\n- (JPN) Immersive Reading\n- (JPN) Public Speaking"
+  summary_content="(SOCI) Politics of Translation <br> (ART) Select Topics in Japanese Art History <br> (CSCI) Introduction to Machine Learning <br> (JPN) Intensive Japanese 4 <br> (JPN) Intensive Japanese 5 <br> (JPN) Immersive Reading <br> (JPN) Public Speaking"
   is_complete="true"
 >}}
 
@@ -81,7 +81,7 @@ aliases = ["resume"]
   extra1="Non-Degree Student"
   extra2="Feb 2018 - May 2020"
   summary_title="Dual Enrollment Classes"
-  summary_content="- CN110 Chinese I\n- CN120 Chinese II\n- CN210 Chinese III\n- CN220 Chinese IV\n- CN330 Advanced Chinese\n- MA130 Calculus I\n- MA160 Linear Algebra\n- MA230 Calculus II\n- PC202 Intro to Physics I (Calculus based)\n- PC202L Intro to Physics Lab I\n- PC203 Intro to Physics II (Calculus based)\n- PC203L Intro to Physics Lab II\n- CS101 Introduction to Computer Science"
+  summary_content="CN110 Chinese I <br> CN120 Chinese II <br> CN210 Chinese III <br> CN220 Chinese IV <br> CN330 Advanced Chinese <br> MA130 Calculus I <br> MA160 Linear Algebra <br> MA230 Calculus II <br> PC202 Intro to Physics I (Calculus based) <br> PC202L Intro to Physics Lab I <br> PC203 Intro to Physics II (Calculus based) <br> PC203L Intro to Physics Lab II <br> CS101 Introduction to Computer Science"
   is_complete="true"
 >}}
 

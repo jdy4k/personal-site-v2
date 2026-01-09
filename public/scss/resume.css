@@ -18,7 +18,7 @@
   padding-bottom: 1.2rem; }
 
 .resume-button {
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.25rem; }
 
 .avatar img {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); }
@@ -38,15 +38,19 @@ h2 {
 .navigation-link {
   letter-spacing: 2px; }
 
+.footer {
+  visibility: hidden; }
+
 .about .resume-button {
   display: inline-block;
-  padding: 0.4rem 1.6rem;
+  padding: 0.4rem 1.6rem 0.7rem 1.6rem;
+  margin-left: 0.5rem;
   background-color: #212121;
   color: #fafafa;
   text-decoration: none;
   border-radius: 0.4rem;
-  font-size: 1.4rem;
-  font-weight: normal;
+  font-size: 1.6rem;
+  font-weight: bold;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   text-transform: none;
   transition: background-color 0.2s ease, color 0.2s ease;
@@ -116,7 +120,8 @@ body.colorscheme-dark .about .resume-button {
   grid-template-columns: 500px auto;
   gap: 20px;
   align-items: start;
-  line-height: 1.2em; }
+  line-height: 1.2em;
+  margin-bottom: 4px; }
   @media (max-width: 900px) {
     .container-h {
       grid-template-columns: minmax(200px, 350px) auto; } }
@@ -130,7 +135,8 @@ body.colorscheme-dark .about .resume-button {
 
 .subtitle {
   font-size: 17px;
-  color: #080808; }
+  color: #080808;
+  margin-bottom: 4px; }
 
 .subtitle a {
   color: #1565c0;
@@ -145,24 +151,23 @@ body.colorscheme-dark .about .resume-button {
   opacity: 0.7; }
 
 .extra {
-  font-size: 14px;
+  font-size: 15px;
   color: #080808;
   margin-bottom: 0;
   line-height: 1.3;
   margin-top: 0; }
 
 .brief {
-  font-size: 14px;
-  margin-top: 8px;
-  margin-bottom: -4px;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 2px;
   line-height: 1.5;
   color: #616161; }
 
 .skills {
-  font-size: 14px;
-  margin-top: 2px;
-  margin-bottom: 0;
-  margin-left: 5px;
+  font-size: 13px;
+  margin-top: 0;
+  margin-bottom: 6px;
   color: #616161;
   font-weight: 500;
   font-style: italic; }
@@ -170,7 +175,7 @@ body.colorscheme-dark .about .resume-button {
 .sum {
   font-size: 14px;
   line-height: 1.4em;
-  margin-top: 9px;
+  margin-top: 0;
   margin-bottom: 0;
   color: #3b3b3b; }
   .sum * {
@@ -186,7 +191,7 @@ body.colorscheme-dark .about .resume-button {
 
 details {
   padding: 0 0 0;
-  margin-bottom: 0; }
+  margin-bottom: 0.25em; }
   details > *:last-child {
     margin-bottom: 0 !important; }
 
