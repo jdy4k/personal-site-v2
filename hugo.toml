@@ -18,7 +18,7 @@ unsafe = true
 author = "Jack Hosler"
 description = "Jack Hosler's personal website"
 keywords = "blog,bioinformatics,personal"
-info = ["Bioinformatics", "Data Science"]
+info = ["Bioinformatics"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2025
@@ -40,19 +40,19 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/jdy4k/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/jackhosler/"
 
 [[params.social]]
 name = "Email"
 icon = "fa fa-envelope fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "mailto:contact@jackhosler.com"
 
 [[menu.main]]
 name = "RESUME"
